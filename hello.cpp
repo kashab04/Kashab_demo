@@ -4,7 +4,7 @@ int main()
 {
     cout << "Kashab Das" << endl;
     cout << "Bro..." << endl;
-    cour << "Haribol" <<endl;
+    cout << "Haribol" <<endl;
 
     return 0;
 }
